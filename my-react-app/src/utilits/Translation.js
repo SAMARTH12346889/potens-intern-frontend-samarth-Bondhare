@@ -25,7 +25,7 @@ uploadPhoto: "Upload Photo",
 back: "Back",
 
 submit: "Submit",
-  },
+DS:D
 
   hi: {
     step: "चरण",
