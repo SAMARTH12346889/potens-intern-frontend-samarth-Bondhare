@@ -110,7 +110,7 @@ The core assignment requirements have been implemented, but a few stretch featur
 
 AI was primarily used for project planning, PWA configuration, debugging, and performance optimization. It also assisted with implementation guidance and code explanations. 
 
-## Future Improvements
+## Unfinished Work or Future Improvements
 
 * Offline submission queue with background synchronization
 * Status tracker timeline
@@ -122,7 +122,7 @@ AI was primarily used for project planning, PWA configuration, debugging, and pe
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/SAMARTH12346889/potens-intern-frontend-samarth-Bondhare.git>
 
 cd my-react-app
 
