@@ -5,7 +5,7 @@ import { lazy, Suspense } from "react";
 import InstallPrompt from "./componets/Installprompt";
 import { useLanguage } from "./context/LanguageContext";
 
-// Lazy-loaded pages
+
 const Category = lazy(() => import("./pages/Category"));
 const Details = lazy(() => import("./pages/Details"));
 const Confirmation = lazy(() => import("./pages/Confirmation"));
@@ -28,7 +28,7 @@ function App() {
           <Suspense
             fallback={
               <div className="min-h-screen flex justify-center items-center">
-                Loading...
+                Loading.....
               </div>
             }
           >
