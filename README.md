@@ -103,6 +103,9 @@ Each report includes:
 
 No backend or external database is required.
 
+unfinishied work:
+The core assignment requirements have been implemented, but a few stretch features remain
+
 ## AI Usage
 
 AI was primarily used for project planning, PWA configuration, debugging, and performance optimization. It also assisted with implementation guidance and code explanations. 
