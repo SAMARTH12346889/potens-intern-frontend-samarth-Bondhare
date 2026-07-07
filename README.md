@@ -108,7 +108,7 @@ The core assignment requirements have been implemented, but a few stretch featur
 
 ## AI Usage
 
-AI was primarily used for project planning, PWA configuration, debugging, and performance optimization. It also assisted with implementation guidance and code explanations. 
+AI was primarily used for project planning, PWA configuration, debugging, and performance optimization. It also assisted with implementation guidance and code explanations.i dont know about approx. token but 25-30 propmts.
 
 ## Unfinished Work or Future Improvements
 
@@ -142,4 +142,9 @@ To preview the production build:
 ```bash
 npm run preview
 ```
+
+<img width="651" height="803" alt="image" src="https://github.com/user-attachments/assets/bc8ddefd-d4c0-4c9b-b069-8cd6f85855e5" />
+<img width="567" height="1010" alt="image" src="https://github.com/user-attachments/assets/5577a62d-81cf-4435-86f2-ed07f293412a" />
+<img width="1698" height="1078" alt="image" src="https://github.com/user-attachments/assets/bd3fb04c-388d-40bf-b864-8c2d23773281" />
+
 
