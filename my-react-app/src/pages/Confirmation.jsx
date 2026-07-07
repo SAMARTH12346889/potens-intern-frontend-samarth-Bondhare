@@ -13,7 +13,7 @@ function Confirmation() {
     }
   }, []);
 
-  // Download Report
+  
   const downloadReport = () => {
     if (!report) return;
 
@@ -46,7 +46,7 @@ Submitted At : ${report.timestamp}
     document.body.removeChild(link);
     window.URL.revokeObjectURL(url);
 
-    // Redirect to Home
+    
     navigate("/");
   };
 

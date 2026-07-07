@@ -15,7 +15,7 @@ function Details() {
 
   const maxCharacters = 300;
 
-  // Upload & Compress Image
+  
   const handleImageUpload = async (e) => {
     const file = e.target.files[0];
 
@@ -44,7 +44,7 @@ function Details() {
     }
   };
 
-  // Voice Recognition
+  
   const startVoiceInput = () => {
     const SpeechRecognition =
       window.SpeechRecognition || window.webkitSpeechRecognition;
@@ -68,7 +68,7 @@ function Details() {
     recognition.start();
   };
 
-  // Submit Report
+  
   const handleSubmit = () => {
     const report = {
       category: localStorage.getItem("selectedCategory"),

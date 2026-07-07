@@ -98,7 +98,7 @@ function Category() {
 
         </div>
 
-        {/* Continue Button */}
+        
 
         <button
           onClick={handleContinue}
