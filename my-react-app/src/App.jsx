@@ -1,3 +1,4 @@
+
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { lazy, Suspense } from "react";
 
@@ -17,6 +18,7 @@ function App() {
       <InstallPrompt />
 
       <BrowserRouter>
+      
         <div style={{ padding: "20px" }}>
           <button onClick={toggleLanguage}>
             {language === "en" ? "हिन्दी" : "English"}
